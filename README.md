@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Natashaa Snow
+- 👀 I’m interested in programming, designing and art.
+- 🌱 I’m currently learning software engineering, as a full-stack developer.
+- 💞️ I’m looking to collaborate on:
+    - Weather forecasting system
+    - Bug tracker
+- 📫 How to reach me:
+    - email: natashamathapelo12@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/natasha-ringane-8ba246271/
