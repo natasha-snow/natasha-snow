@@ -2,7 +2,7 @@
 
 ###
 
-<img align="center" height="850" src="8la1fw.gif" />
+<img align="center" height="650" src="8la1fw.gif" />
  
 ###
 
