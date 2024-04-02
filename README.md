@@ -2,12 +2,12 @@
 
 ###
 
-<img align="center" height="900" src="8la1fw.gif" />
+<img align="center" height="850" src="8la1fw.gif" />
  
 ###
 
 ###
-<p align="center">I am an aspiring developer that is very passionate about building user-friendly and responsive websites. Early last year i decided to enroll at an online course, and that is the best decision i have made because i learnt a lot of things. To this day i am still learning, as there is a lot to learn in the tech world. As much as my skills are more lenient on frond-end, i am also passionate with back-end development. </p>
+<p align="center">I am an aspiring developer that is very passionate with building user-friendly and fully responsive websites. I am also passionate with back-end development, hoping to be a fullstack developer. To this day i am still learning new technologies, as there is a lot to learn in the tech world. I am interested in design, art and photography, those are my favourite things to do when not coding. </p>
 
 ###
 
@@ -87,7 +87,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
