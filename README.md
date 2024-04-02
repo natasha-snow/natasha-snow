@@ -2,10 +2,8 @@
 
 ###
 
-<img align="right" height="250" src="../8la1fw.gif" />
+<img align="center" height="900" src="8la1fw.gif" />
  
- 
-
 ###
 
 ###
@@ -86,10 +84,10 @@
 
 ###
 
-
 ###
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
