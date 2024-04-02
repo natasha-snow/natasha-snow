@@ -2,12 +2,12 @@
 
 ###
 
-<img align="center" height="650" src="8la1fw.gif" />
+<img align="center" height="600" width="1200" src="8la1fw.gif" />
  
 ###
 
 ###
-<p align="center">I am an aspiring developer that is very passionate with building user-friendly and fully responsive websites. I am also passionate with back-end development, hoping to be a fullstack developer. To this day i am still learning new technologies, as there is a lot to learn in the tech world. I am interested in design, art and photography, those are my favourite things to do when not coding. </p>
+<p align="center" >I am an aspiring developer that is very passionate with building user-friendly and fully responsive websites. I am also passionate with back-end development, hoping to be a fullstack developer. To this day i am still learning new technologies, as there is a lot to learn in the tech world. I am interested in design, art and photography, those are my favourite things to do when not coding. </p>
 
 ###
 
